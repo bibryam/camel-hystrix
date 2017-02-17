@@ -1,0 +1,4 @@
+### Java template
+.idea
+target
+*.iml
